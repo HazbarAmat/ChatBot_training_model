@@ -1,0 +1,37 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["hello","hey","hi","what's up?","how is it going?","good morning","good afternoon","Whats Up?","good evening"],
+    "responses":["hello!","Hey!","what can i do for you?","how are you?","how can i help you?"]
+    
+},{"tag":"aboutCovid",
+    "patterns":["What is covid-19?","Tell me about covid-19"],
+    "responses":["COVID-19 is the disease caused by SARS-CoV-2, the coronavirus that emerged in December 2019.","COVID-19 is a severe virus, and has caused millions of deaths around the world as well as lasting health problems in some who have survived the illness."]
+    
+},{"tag":"covidSymptoms",
+    "patterns":["do I have covid-19?","what are the symptoms of covid-19?"],
+    "responses":["covid-19 symptoms: cough, fever, difficulty breathing, body aches, sore throats, loss of taste or smell, diarrhea, headache, fatigue, nausea, runny nose"]
+}
+,{"tag":"vaccination",
+    "patterns":["what is covid-19 vaccination?","should I take the covid-19 vaccine?"],
+    "responses":["the vaccine prevents you from getting COVID-19 or from becoming seriously ill or dying due to COVID-19","the vaccine prevents you from spreading the virus that causes COVID-19 to others."]
+
+},{"tag":"hotline",
+    "patterns":["I need immediate help","covid-19 hotline"],
+    "responses":["Call 444"]
+
+}
+,{"tag":"checkup",
+    "patterns":["I feel like I have covid-19","I feel sick","how to check for covid-19?"],
+    "responses":["If you feel like you have covid-19 symptoms, isolate yourself from others and call the nearest health center to book a covid-19 test."]
+
+},{"tag":"prevent",
+    "patterns":["How to prevent covid-19?","covid-19 tips","how to stop spreading covid-19?"],
+    "responses":["It is important to follow these general guidelines to stay safe: 1)Get vaccinated 2)always wear a mask in public. 3)keep a safe distance from others (at least 2 meters). 4)keep your hands clean and away from your face."]
+
+},
+
+{"tag":"done",
+    "patterns":["thank you","thanks","goodbye","good advice","bye"],
+    "responses":["you're welcome!","welcome", "anytime","stay safe"]
+}
+]}
