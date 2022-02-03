@@ -1,5 +1,4 @@
-# NAME1:Amat Alaleem Hazbar ID: 20174083
-# NAME2:Mustafa Haroun      ID:20161213
+
 import random
 import json
 import pickle
