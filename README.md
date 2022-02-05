@@ -1,6 +1,6 @@
 # ChatBot_training_model
 
-THis a university assigement to write a program that acts as a Chatbot using Python. 
+This is a university assignment of the AI course,  to write a program that acts as a chatbot using training and testing models. 
 
 ## How to run the program? 
 ### First: You need to excute "TrainingModel.py" file.
